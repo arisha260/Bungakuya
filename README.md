@@ -1,6 +1,6 @@
 # Bungakuya
 
-# [Ready-made website]().
+# [Ready-made website](https://arisha260.github.io/Bungakuya/).
 
 ## The site is based on the one I created personally (my first one :D ) layout
 
