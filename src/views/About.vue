@@ -1,0 +1,11 @@
+<script setup>
+  import AboutUs from "@/components/AboutUs.vue";
+</script>
+
+<template>
+  <AboutUs />
+</template>
+
+<style scoped lang="scss">
+
+</style>
