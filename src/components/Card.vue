@@ -8,11 +8,13 @@
     price: String,
     price1: String,
   })
+
+  const baseUrl = import.meta.env.BASE_URL;
 </script>
 
 <template>
   <article class="card">
-    <img :src="src" class="img card__img" alt="manga">
+    <img :src="baseUrl + src" class="img card__img" alt="manga">
     <div class="card__content">
       <h2 class="card__title">{{ title }}</h2>
       <p class="card__title-en text-18">({{ title2 }})</p>
